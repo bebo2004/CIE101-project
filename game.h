@@ -12,7 +12,7 @@ class game
 {
 
 	/// Add more members if needed
-	int score = 5;
+	int score = 100;
 	int lives = 5;
 	int level = 1;
 	toolbar* gameToolbar;
